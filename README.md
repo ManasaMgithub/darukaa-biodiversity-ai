@@ -8,9 +8,9 @@ The system is designed for the **Darukaa.Earth AI Biodiversity Intelligence Chal
 
 ## 🚀 Live Demo
 
-**Live Application:** `Coming soon`
+**Live Application:** `https://darukaa-biodiversity-ai-gepwtcoxznyhkkq88tjsns.streamlit.app/`
 
-**GitHub Repository:** `https://github.com/YOUR_USERNAME/darukaa-biodiversity-ai`
+**GitHub Repository:** `https://github.com/ManasaMgithub/darukaa-biodiversity-ai`
 
 ---
 
