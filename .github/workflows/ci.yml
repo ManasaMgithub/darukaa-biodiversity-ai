@@ -1,0 +1,46 @@
+name: Darukaa Earth CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test Application
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          pytest -v
+
+      - name: Validate Python files
+        run: |
+          python -m py_compile app.py
+          python -m py_compile src/config.py
+          python -m py_compile src/conversation.py
+          python -m py_compile src/ingestion.py
+          python -m py_compile src/prompts.py
+          python -m py_compile src/reasoning.py
+          python -m py_compile src/retriever.py
