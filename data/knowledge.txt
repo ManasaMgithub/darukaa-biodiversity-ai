@@ -1,0 +1,180 @@
+TOPIC: SOIL ORGANIC COVER AND BIODIVERSITY
+
+Covering soil with crop residues or cover crops is a core conservation agriculture practice. Cover crops can improve soil properties, protect soil during fallow periods, recycle nutrients, improve soil structure, and promote increased biodiversity in agricultural ecosystems. In semi-arid or degraded regions, cover crops can be particularly useful because they protect soil and make use of residual soil moisture.
+
+SOURCE:
+Food and Agriculture Organization of the United Nations (FAO)
+Conservation Agriculture - Soil Organic Cover
+https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+
+METRICS:
+- Soil organic carbon
+- Soil structure
+- Soil moisture
+- Nutrient cycling
+- Agroecosystem biodiversity
+- Vegetation cover
+
+RELATIONSHIPS:
+Cover crops -> soil protection
+Cover crops -> soil structure
+Cover crops -> biodiversity
+Vegetation cover -> soil protection
+
+
+TOPIC: LAND, CLIMATE AND BIODIVERSITY
+
+The IPCC Special Report on Climate Change and Land describes strong interactions among land, climate, biodiversity, water and ecosystem processes. Land ecosystems and biodiversity are vulnerable to climate change and weather and climate extremes. Sustainable land management can help reduce negative impacts from multiple stressors.
+
+Changes in temperature and precipitation can alter growing seasons, freshwater availability and biodiversity. Climate and land-use pressures can therefore interact rather than acting independently.
+
+SOURCE:
+IPCC Special Report on Climate Change and Land (2019)
+https://www.ipcc.ch/srccl/
+
+METRICS:
+- Temperature
+- Rainfall
+- Water availability
+- Land degradation
+- Biodiversity
+- Vegetation
+- Ecosystem health
+
+RELATIONSHIPS:
+Climate change -> water availability
+Climate change -> biodiversity stress
+Land degradation -> ecosystem health
+Land use + climate -> biodiversity
+
+
+TOPIC: LAND DEGRADATION AND BIODIVERSITY
+
+Land degradation can reduce biological productivity and ecological integrity. The IPCC identifies land-use changes and unsustainable land management as important human causes of land degradation. Climate change can increase pressures associated with land degradation and biodiversity loss.
+
+Sustainable land management and integrated approaches are relevant when multiple environmental stressors occur simultaneously.
+
+SOURCE:
+IPCC Special Report on Climate Change and Land
+https://www.ipcc.ch/srccl/
+
+METRICS:
+- Land condition
+- Biological productivity
+- Ecological integrity
+- Biodiversity
+- Soil condition
+- Vegetation cover
+
+RELATIONSHIPS:
+Unsustainable land management -> land degradation
+Land degradation -> ecological integrity
+Land degradation + climate stress -> biodiversity pressure
+
+
+TOPIC: WATER AVAILABILITY AND DRYLAND ECOSYSTEMS
+
+Rainfall and water availability are important environmental factors affecting land ecosystems. In drylands, climate change and desertification can reduce ecosystem services and contribute to biodiversity losses. Water stress should therefore be considered together with soil and land-use conditions.
+
+SOURCE:
+IPCC Special Report on Climate Change and Land
+https://www.ipcc.ch/srccl/
+
+METRICS:
+- Rainfall
+- Soil moisture
+- Water availability
+- Vegetation productivity
+- Biodiversity
+- Ecosystem health
+
+RELATIONSHIPS:
+Low rainfall -> water stress
+Water stress -> vegetation stress
+Climate stress + land degradation -> biodiversity pressure
+
+
+TOPIC: AGRICULTURAL DIVERSIFICATION
+
+Agricultural systems with greater crop and vegetation diversity can provide different habitat structures and resources. Crop diversification and cover crops can also reduce the continuity of monoculture systems.
+
+FAO conservation agriculture guidance identifies cover crops as a practice that can permit rotation in a monoculture and promote biodiversity in the agroecosystem.
+
+SOURCE:
+Food and Agriculture Organization of the United Nations (FAO)
+Conservation Agriculture - Soil Organic Cover
+https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+
+METRICS:
+- Crop diversity
+- Habitat diversity
+- Vegetation cover
+- Agroecosystem biodiversity
+- Soil properties
+
+RELATIONSHIPS:
+Monoculture -> simplified habitat structure
+Crop diversification -> greater habitat/resource diversity
+Cover crops -> biodiversity
+Crop rotation -> reduced monoculture continuity
+
+
+TOPIC: AGROFORESTRY AND SOIL CARBON
+
+Agroforestry integrates trees with agricultural systems and can create more structurally diverse vegetation. Greater plant diversity and tree density can be associated with higher soil carbon stocks in some agroforestry and homegarden systems.
+
+A study indexed by the FAO AGRIS database reported that soil carbon stocks in Kerala homegardens were directly related to plant diversity, species richness and tree density.
+
+SOURCE:
+Soil carbon stock in relation to plant diversity of homegardens in Kerala, India
+Agroforestry Systems, Volume 76, Issue 1, pages 53-65
+DOI: 10.1007/s10457-009-9228-8
+https://agris.fao.org/search/en/providers/122535/records/65df9ab96eef00c2cea32487
+
+METRICS:
+- Soil carbon
+- Plant diversity
+- Species richness
+- Tree density
+- Vegetation structure
+
+RELATIONSHIPS:
+Plant diversity -> soil carbon
+Tree density -> soil carbon
+Vegetation diversity -> habitat structure
+
+
+TOPIC: MULTI-METRIC BIODIVERSITY REASONING
+
+Environmental problems should be evaluated across interacting variables rather than through a single metric.
+
+For example, low rainfall can create water stress. Low soil organic carbon can reduce soil quality and affect water retention. Monoculture can simplify habitat structure and reduce resource diversity. These factors can therefore compound one another.
+
+A suitable recommendation should identify:
+1. The action.
+2. The environmental mechanism.
+3. The affected metrics.
+4. The expected time horizon.
+5. The supporting evidence.
+
+Recommendations should not be generic. The system should explain why an intervention is relevant to the specific combination of environmental conditions.
+
+SUPPORTING SOURCES:
+FAO Conservation Agriculture
+https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/
+
+IPCC Special Report on Climate Change and Land
+https://www.ipcc.ch/srccl/
+
+
+TOPIC: EVIDENCE AND UNCERTAINTY
+
+Scientific evidence should be distinguished from reasoning performed by the AI system.
+
+The system should not invent numerical improvement percentages, study names, authors or findings. If a retrieved source supports a general relationship but does not provide a quantitative estimate, the system should report the relationship without fabricating a number.
+
+Confidence should reflect the relevance and strength of retrieved evidence.
+
+SOURCE:
+IPCC Special Report on Climate Change and Land
+https://www.ipcc.ch/srccl/
